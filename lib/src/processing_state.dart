@@ -1,0 +1,4 @@
+enum ProcessingState {
+  processing,
+  idle;
+}

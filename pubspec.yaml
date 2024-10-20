@@ -1,0 +1,17 @@
+name: async_task_queue
+description: A minimal task runner for sequential, asynchronous task execution
+version: 0.0.1
+homepage: https://github.com/Ragibn5/async_task_queue.git
+
+environment:
+  sdk: '>=3.0.6 <4.0.0'
+  flutter: ">=1.17.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
